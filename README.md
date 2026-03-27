@@ -87,18 +87,9 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 
 14.  After the file download is complete, switch your board to run mode and press the reset button to see the output
 
-
-
-
-
-
 ## STM 32 CUBE PROGRAM
-
 ```
 1A
-
-
-
 #include "main.h"
 
 void SystemClock_Config(void);
@@ -119,8 +110,6 @@ int main(void)
 	  HAL_Delay(5000);
 	  HAL_GPIO_WritePin(GPIOA,GPIO_PIN_0,GPIO_PIN_RESET);
 	  HAL_Delay(5000);
-
-
   }
 }
 ```
@@ -131,12 +120,8 @@ int main(void)
 ![onboardON](https://github.com/user-attachments/assets/ca8a07cb-cbda-45e0-bd46-32d9761ad5a1)
 
 ## STM 32 CUBE PROGRAM
-
 ```
-
 1B
-
-
 #include "main.h"
 
 void SystemClock_Config(void);
