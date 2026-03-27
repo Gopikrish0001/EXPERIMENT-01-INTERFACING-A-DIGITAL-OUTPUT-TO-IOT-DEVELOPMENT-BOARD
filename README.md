@@ -79,9 +79,7 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 11. connect the iot board to power supply and usb
 
 12. After connecting open the STM cube programmer
-
 ![Screenshot 2025-03-11 135208](https://github.com/user-attachments/assets/bb67ab6b-81a5-450c-b170-4276a9b87ef2)
-
 
 13. Connect the STM board through the COM port, then upload the corresponding project ELF file/Hex file or Bin file in Erasing & Programming Window,while ensuring the board is in flash mode, and click on 'Start Program'.
     
