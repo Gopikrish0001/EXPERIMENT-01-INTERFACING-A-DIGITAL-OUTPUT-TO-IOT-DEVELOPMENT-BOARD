@@ -150,6 +150,5 @@ int main(void)
 ## OUTPUT
 ![ledonboardOFF](https://github.com/user-attachments/assets/d30c0d66-d71a-495d-8c64-4cdf11e1ccdc)
 ![ledonboardON](https://github.com/user-attachments/assets/6ca52326-7ce1-40fd-a7aa-2bdd9e0a0371)
-
 ## Result
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
