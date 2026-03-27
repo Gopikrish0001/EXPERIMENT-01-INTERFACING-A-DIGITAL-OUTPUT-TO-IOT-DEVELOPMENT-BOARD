@@ -1,11 +1,7 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
-
 ## DATE:02:02:2026
-
 ## NAME   :GOPIKRISHNAN M
-
 ## ROLL NO:212223043001
-
 ## DEPARTMENT:BE-CSE
 
 ## Aim
@@ -113,9 +109,8 @@ int main(void)
   }
 }
 ```
-## OUTPUT
+##  OUTPUT
 ![onboardOFF](https://github.com/user-attachments/assets/793399ac-e6e5-4735-81c1-0ca4e9f7bd95)
-
 ![onboardON](https://github.com/user-attachments/assets/ca8a07cb-cbda-45e0-bd46-32d9761ad5a1)
 ## STM 32 CUBE PROGRAM
 ```
@@ -140,8 +135,6 @@ int main(void)
 	  HAL_Delay(5000);
 	  HAL_GPIO_WritePin(GPIOB,GPIO_PIN_5,GPIO_PIN_RESET);
 	  HAL_Delay(5000);
-
-
   }
 }
 ```
