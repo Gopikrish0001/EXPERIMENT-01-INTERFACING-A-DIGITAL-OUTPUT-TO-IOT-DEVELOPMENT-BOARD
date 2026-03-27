@@ -113,12 +113,10 @@ int main(void)
   }
 }
 ```
-
 ## OUTPUT
 ![onboardOFF](https://github.com/user-attachments/assets/793399ac-e6e5-4735-81c1-0ca4e9f7bd95)
 
 ![onboardON](https://github.com/user-attachments/assets/ca8a07cb-cbda-45e0-bd46-32d9761ad5a1)
-
 ## STM 32 CUBE PROGRAM
 ```
 1B
